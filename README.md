@@ -1,5 +1,5 @@
-# personasgotham
-Perfis de personagens da série Gotham da Netflix
+# Personagens de Gotham (Software para Web)
+_Perfis de personagens da série Gotham da Netflix_
 
 Criei uma constante para os perfis dos personagens aparecerem no site, com suas propriedades sendo: id, nome, ator, img e text (descrição do personagem). Depois também criei constantes pra esses componentes e para os botões de voltar, avançar e aleatório.
 
